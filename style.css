@@ -1,0 +1,16 @@
+li {
+  list-style-type: none;
+  margin-top: 5px;
+}
+.fa-solid {
+  margin-right: 8px;
+  color: black;
+}
+.fa-brands {
+  margin-right: 8px;
+  color: blue;
+}
+.fa-youtube {
+  margin-right: 8px;
+  color: red;
+}
